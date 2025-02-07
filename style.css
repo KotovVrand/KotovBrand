@@ -1,11 +1,11 @@
 body {
-    background-color: black; /* Черный фон */
-    color: red; /* Красный текст */
-    font-family: Arial, sans-serif; /* Шрифт */
+    background-color: black;
+    color: red;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 h1, p {
-    color: red; /* Красный цвет для заголовков и текста */
+    color: red;
 }
